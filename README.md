@@ -1,1 +1,2 @@
 # BaiduFaceSdk
+百度人脸识别SDK的一些依赖
