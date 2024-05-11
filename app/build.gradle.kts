@@ -70,7 +70,7 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-test-manifest")
 }
 
-group = "com.github.wzh-gpu"
+group = "com.github.troncell"
 version = "1.0.0"
 
 afterEvaluate {
