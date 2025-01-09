@@ -71,7 +71,7 @@ dependencies {
 }
 
 group = "com.github.troncell"
-version = "1.0.0"
+version = "1.1.0"
 
 afterEvaluate {
     publishing {
@@ -96,7 +96,7 @@ afterEvaluate {
 
                 afterEvaluate {
                     // 指定 AAR 文件的路径
-                    artifact("${projectDir}/libs/FaceSDK_8.1_20230216-release.aar")
+                    artifact("${projectDir}/libs/FaceSDK_8.2_20240308-release.aar")
                 }
 
             }
